@@ -5,5 +5,9 @@ class Main {
         int y = 2;
         System.out.println("Привет мир");
         System.out.println(x + y);
+        if x != 10{
+            System.out.println("+1");
+            x += 1;
+        }
     }
 }
